@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theknowledgepro
-- 👀 I’m a Full stack MERN web developer
+- 👀 I’m a Full stack software developer/engineer
 - 🌱 I’m currently working on a global project, a massive technology.
 - 📫 You could WhatsApp me on +2347041960963
 
