@@ -112,10 +112,5 @@ Updates, monitoring, optimizations, long-term stability.
   <a href="https://github.com/theknowledgepro"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
 </p>
 
----
-
-<p align="center">
-  <strong>“I build scalable software that turns ideas into real-world products.”</strong>
-</p>
 
  
