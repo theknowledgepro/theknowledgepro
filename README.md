@@ -107,7 +107,7 @@ Updates, monitoring, optimizations, long-term stability.
 # 📫 Connect With Me
 
 <p>
-  <a href="mailto:hello@promisedera.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="mailto:ajibo@promisedera.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
   <a href="https://linkedin.com/in/ajibo-chidera-promise"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="https://github.com/theknowledgepro"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
 </p>
