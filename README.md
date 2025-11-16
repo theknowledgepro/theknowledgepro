@@ -1,107 +1,156 @@
-<h1 align="center">Hi, I'm Chidera Ajibo 👋</h1>
-<h3 align="center">Full-Stack Software Engineer | React • Next.js • Node.js • SaaS Builder</h3>
+<!-- HERO BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=650&lines=Chidera+Promise+Ajibo;Full-Stack+Software+Engineer;SaaS+%7C+MVPs+%7C+Real-Time+Apps;Building+Scalable+Digital+Products" />
+</p>
 
 <p align="center">
-  Passionate about building scalable, high-performance digital products.<br />
-  I specialize in modern frontend engineering, real-time backend systems, and developer-focused tools.
+  <img src="https://via.placeholder.com/120x120.png?text=CA" width="110" style="border-radius: 50%;" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 👋 Hi, I'm **Chidera Promise Ajibo**
 
-- 🧑‍💻 Full-stack developer with strong expertise in **React.js, Next.js, Node.js, and TypeScript**
-- 🌍 Currently building **global SaaS platforms, real-time communication apps, and developer tools**
-- 🛠 Skilled in creating scalable APIs, admin dashboards, design systems, and collaborative apps  
-- 📦 Interested in **microservices, video conferencing tech (Mediasoup / WebRTC), Stripe SaaS billing, and automation**
-- ✍️ I also write about **web dev, scalability, and practical engineering tips** for founders & startups.
+A full-stack software developer with **5+ years of coding experience** and **3+ years of professional industry experience**, specializing in turning ideas into scalable, high-impact digital products.
+
+I work with **founders, startups, SMEs, NGOs, and accelerators** to build MVPs, SaaS platforms, mobile apps, CMS systems, and enterprise-grade software — optimized for speed, growth, and usability.
 
 ---
 
-## 🧰 Tech Stack & Tools
+# 🔢 Experience Snapshot
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>5+</strong><br/>Years of Experience</td>
+      <td align="center"><strong>16+</strong><br/>Completed Projects</td>
+      <td align="center"><strong>18+</strong><br/>Happy Clients</td>
+    </tr>
+  </table>
+</p>
+
+---
+
+# 🧑‍💻 About Me
+
+I hold a **B.Eng in Mechanical Engineering**, which shaped my structured problem-solving approach and analytical mindset.
+
+I build:
+
+- Modern web applications  
+- Full SaaS platforms  
+- Real-time communication apps  
+- Scalable, cloud-ready infrastructures  
+- Clean, maintainable codebases built for growth  
+
+I mainly use the **JavaScript/TypeScript ecosystem**, but I quickly adapt to any tool needed for the job.
+
+---
+
+# 💡 Why Work With Me?
+
+### ✔ Agile & Iterative Delivery  
+Live demos, continuous updates, predictable milestones.
+
+### ✔ Transparent Communication  
+Direct access to me with clear reporting and documentation.
+
+### ✔ Clean, Scalable Code  
+Future-proof and optimized for growth.
+
+### ✔ DevOps & Cloud-Ready  
+CI/CD, deployments, and cloud setup professionally handled.
+
+### ✔ User-Centered Design  
+Modern UI/UX, smooth animations, responsive interfaces.
+
+### ✔ Optimized & Secure  
+SEO-friendly, fast, secure, and performance-focused.
+
+### ✔ Startup-Friendly Options  
+Flexible pricing — including **equity-for-service** for promising ideas.
+
+---
+
+# 🛠 What I Can Do For You
+
+### **01 — Customized Web Solutions**
+Responsive websites, dashboards, and enterprise-level systems.
+
+### **02 — Cross-Platform Mobile Apps**
+iOS & Android apps with smooth performance.
+
+### **03 — MVP & SaaS Development**
+Architecture, development, and scaling of secure SaaS platforms.
+
+### **04 — Cloud & DevOps Solutions**
+CI/CD, automated deployments, cloud infrastructure, containerization.
+
+### **05 — Tech Advisory & Strategy**
+Stack selection, architecture planning, product roadmap.
+
+### **06 — Product Maintenance & Support**
+Updates, monitoring, optimizations, long-term stability.
+
+---
+
+# 🧰 Tech Stack
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,html,css,threejs" />
 </p>
 
 ### **Backend & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,docker,nginx,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,redis,docker,nginx,linux" />
 </p>
 
 ### **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theknowledgepro" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theknowledgepro&show_icons=true&theme=default" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=theknowledgepro&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theknowledgepro&layout=compact" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theknowledgepro&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theknowledgepro&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
 
-## 🛠 Highlight Projects
+# 📝 Writing & Insights
 
-### 🔹 **Real-Time Video Conferencing App**
-Built using **React, Node.js, Mediasoup, Socket.IO, and Next.js**, supporting:
-- Real-time rooms  
-- Screen sharing  
-- Audio/Video controls  
-- Multi-participant UI  
+I publish practical insights on:
 
-### 🔹 **SaaS Subscription Platform (Stripe)**
-- Full billing automation  
-- Webhooks  
-- Subscription management  
-- Admin insights dashboard  
-
-### 🔹 **Digital Collaborative Whiteboard**
-- Canvas drawing  
-- Realtime sync via sockets  
-- Sticky notes, shapes, tools, multiplayer cursors  
-
-*(More project details coming soon…)*
+- Scaling Node.js & SaaS apps  
+- Building fast and modern UIs  
+- Real-time communication systems  
+- Startup-ready architectures  
+- DevOps & deployment strategies  
 
 ---
 
-## ✍️ Blog — Practical Developer Tips  
-I write about:
-- React & Next.js productivity  
-- Scaling Node.js APIs  
-- Stripe + SaaS engineering  
-- UI/UX patterns  
-- Dev tools for founders & small teams  
+# 📫 Connect With Me
 
-Stay tuned for long-form articles.
+<p>
+  <a href="mailto:deraajibo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://x.com/theknowledgepro"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
+  <a href="https://github.com/theknowledgepro"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+</p>
 
 ---
 
-## 📫 Contact
+<p align="center">
+  <strong>“Build fast. Ship smart. Improve forever.”</strong>
+</p>
 
-- 💼 Portfolio: *Coming soon*
-- 📧 Email: **deraajibo@gmail.com**  
-- 🐦 Twitter: **@theknowledgepro**  
-- 🌐 GitHub: **github.com/theknowledgepro**
-
----
-
-### ⭐ Fun Motto
-> _“Build fast. Ship smart. Improve forever.”_
-
----
-
-### 💖 If you like my work, consider giving a ⭐ to my repositories!
-
+<p align="center">⭐ If you like my work, consider starring my repositories!</p>
