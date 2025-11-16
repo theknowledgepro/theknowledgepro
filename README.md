@@ -30,6 +30,7 @@ I work with **founders, startups, SMEs, NGOs, and accelerators** to build MVPs, 
 # 🧑‍💻 About Me
 
 I’m a full-stack developer helping founders, startups and SMEs turn ideas into scalable, user-friendly digital products, ready to launch — quickly and very affordable.
+
 I build:
 
 - Modern web applications  
@@ -95,7 +96,7 @@ Updates, monitoring, optimizations, long-term stability.
 
 ### **Backend & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,redis,docker,nginx,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,prisma,postgres,mongodb,redis,docker,nginx,linux" />
 </p>
 
 ### **Tools**
@@ -129,7 +130,7 @@ Updates, monitoring, optimizations, long-term stability.
 ---
 
 <p align="center">
-  <strong>“From idea to launch, I make your startup vision a reality — on time, on budget, and ready to compete globally.”</strong>
+  <strong>“I build scalable software that turns ideas into real-world products.”</strong>
 </p>
 
  
