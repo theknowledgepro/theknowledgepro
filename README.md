@@ -20,25 +20,10 @@ I work with **founders, startups, SMEs, NGOs, and accelerators** to build MVPs, 
     <tr>
       <td align="center"><strong>5+</strong><br/>Years of Experience</td>
       <td align="center"><strong>16+</strong><br/>Completed Projects</td>
-      <td align="center"><strong>18+</strong><br/>Happy Clients</td>
+      <td align="center"><strong>14+</strong><br/>Happy Clients</td>
     </tr>
   </table>
 </p>
-
----
-
-# 🧑‍💻 About Me
-
-I’m a full-stack developer helping founders, startups and SMEs turn ideas into scalable, user-friendly digital products, ready to launch — quickly and very affordable.
-
-I build:
-
-- Modern web applications  
-- Full SaaS platforms  
-- Real-time communication apps  
-- Scalable, cloud-ready infrastructures  
-- Clean, maintainable codebases built for growth
----
 
 # 💡 Why Work With Me?
 
