@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=650&lines=Chidera+Promise+Ajibo;Full-Stack+Software+Engineer;SaaS+%7C+MVPs+%7C+Real-Time+Apps;Building+Scalable+Digital+Products" />
 </p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/120x120.png?text=CA" width="110" style="border-radius: 50%;" />
-</p>
-
 ---
 
 # 👋 Hi, I'm **Chidera Promise Ajibo**
@@ -33,18 +29,14 @@ I work with **founders, startups, SMEs, NGOs, and accelerators** to build MVPs, 
 
 # 🧑‍💻 About Me
 
-I hold a **B.Eng in Mechanical Engineering**, which shaped my structured problem-solving approach and analytical mindset.
-
+I’m a full-stack developer helping founders, startups and SMEs turn ideas into scalable, user-friendly digital products, ready to launch — quickly and very affordable.
 I build:
 
 - Modern web applications  
 - Full SaaS platforms  
 - Real-time communication apps  
 - Scalable, cloud-ready infrastructures  
-- Clean, maintainable codebases built for growth  
-
-I mainly use the **JavaScript/TypeScript ecosystem**, but I quickly adapt to any tool needed for the job.
-
+- Clean, maintainable codebases built for growth
 ---
 
 # 💡 Why Work With Me?
@@ -98,7 +90,7 @@ Updates, monitoring, optimizations, long-term stability.
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,html,css,threejs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,html,css,threejs,flutter" />
 </p>
 
 ### **Backend & DevOps**
@@ -119,38 +111,25 @@ Updates, monitoring, optimizations, long-term stability.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=theknowledgepro&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theknowledgepro&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theknowledgepro&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
 ---
 
-# 📝 Writing & Insights
-
-I publish practical insights on:
-
-- Scaling Node.js & SaaS apps  
-- Building fast and modern UIs  
-- Real-time communication systems  
-- Startup-ready architectures  
-- DevOps & deployment strategies  
+📘 **Explore my writings and insights on my portfolio here:**  
+➡️ **https://promisedera.com/blogs**
 
 ---
 
 # 📫 Connect With Me
 
 <p>
-  <a href="mailto:deraajibo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-  <a href="https://x.com/theknowledgepro"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
+  <a href="mailto:hello@promisedera.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://linkedin.com/in/ajibo-chidera-promise"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="https://github.com/theknowledgepro"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <strong>“Build fast. Ship smart. Improve forever.”</strong>
+  <strong>“From idea to launch, I make your startup vision a reality — on time, on budget, and ready to compete globally.”</strong>
 </p>
 
-<p align="center">⭐ If you like my work, consider starring my repositories!</p>
+ 
